@@ -1,8 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - r-base=4.1.2
-  - r-tidyverse
-  - r-dygraphs
-  - r-purrr
-  - r-arm
+  - r-base=4.2.0
