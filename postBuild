@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rm apt.txt environment.yml postBuild data/.gitkeep script/.gitkeep figure/.gitkeep table/.gitkeep
